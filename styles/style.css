@@ -1,3 +1,7 @@
+@font-face{
+  font-family: 'MotionPicture';
+  src: url('fonts/MotionPicture.ttf');
+}
 html {
     font-size: 10px;
     font-family: 'Open Sans', sans-serif;
@@ -5,11 +9,12 @@ html {
   
   
   h1 {
+    font-family: 'MotionPicture';
     font-size: 60px;
     text-align: center;
   }
   
-  p, li {
+  li {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
@@ -38,5 +43,12 @@ html {
   img {
     display: block;
     margin:  auto;
+  }
+  button {
+    font-size: large;
+    margin-bottom: 20px;
+  }
+  div {
+    text-align: center;
   }
   
