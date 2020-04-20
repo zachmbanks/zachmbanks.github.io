@@ -1,0 +1,31 @@
+:root {
+    --light-red: rgb(223, 18, 51);
+    --dark-red: rgb(116, 36, 51);
+    --brownish: #2b292c;
+    --dark-purplish: #1c1c2b;
+    --dark-bluish: #141c2a;
+}
+
+#logo-image {
+    width: 250px ;
+}
+
+#head-col {
+    text-align: center;
+}
+
+#head-h1{
+    color: #00ea48;
+}
+
+#r1-col1 {
+    text-align: center;
+}
+
+#r1-col3 {
+    text-align: center;
+}
+
+#r1-col1-h2 {
+    text-align: center;
+}
