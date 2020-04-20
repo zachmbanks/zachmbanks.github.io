@@ -15,7 +15,7 @@
 }
 
 #head-h1{
-    color: #00ea48;
+    color: #588c7f;
 }
 
 #r1-col1 {
@@ -28,4 +28,7 @@
 
 #r1-col1-h2 {
     text-align: center;
+}
+#r1-img {
+    padding-top: 30px;
 }
